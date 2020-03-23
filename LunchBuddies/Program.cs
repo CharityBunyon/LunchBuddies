@@ -8,7 +8,7 @@ namespace LunchBuddies
         {
             Console.WriteLine("Hello World!");
 
-            LunchBuddy lunchBuddy = new LunchBuddy("Jameka", "Echols");
+            LunchBuddy lunchBuddy = new LunchBuddy("Charity", "Bunyon");
         }
     }
 }

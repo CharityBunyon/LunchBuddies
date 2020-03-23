@@ -16,11 +16,6 @@ namespace LunchBuddies
 
             Name = _resturants[random.Next(_resturants.Count)]; //count is equal to the length method on strings and other collections 
             // Within the name variable I'm grabbing a non-negative random integer which will be the index of my Resturants List
-
-            // what is the issue
-            // I just texted you.
-            // okay checking it out now
-            // cool beans,this is so cool!
         }
    
     }
